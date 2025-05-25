@@ -1,0 +1,27 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2024-03-13 11:16:20.357369",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{\"filters\":[],\"fields\":[[\"name\",\"Equipment Maintenance Order\"],[\"docstatus\",\"Equipment Maintenance Order\"],[\"equipment_category\",\"Equipment Maintenance Order\"],[\"maintanance_order_type\",\"Equipment Maintenance Order\"],[\"equipment_name\",\"Equipment Maintenance Order\"],[\"order_from_department\",\"Equipment Maintenance Order\"],[\"maintanance_team\",\"Equipment Maintenance Order\"],[\"date\",\"Equipment Maintenance Order\"],[\"order_type\",\"Equipment Maintenance Order\"],[\"equipment_status\",\"Equipment Maintenance Order\"],[\"status\",\"Equipment Maintenance Order\"]],\"order_by\":\"`tabEquipment Maintenance Order`.`modified` desc\",\"page_length\":20,\"column_widths\":{\"name\":146,\"equipment_category\":153,\"maintanance_order_type\":200,\"equipment_name\":151,\"order_from_department\":180,\"maintanance_team\":143,\"date\":120,\"order_type\":120,\"equipment_status\":148,\"status\":120},\"group_by\":null}",
+ "modified": "2024-03-13 12:31:33.781794",
+ "modified_by": "Administrator",
+ "module": "Quantbit Calibration Process",
+ "name": "Maintenance Order Report",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Equipment Maintenance Order",
+ "report_name": "Maintenance Order Report",
+ "report_type": "Report Builder",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}
